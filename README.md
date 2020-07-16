@@ -1,8 +1,9 @@
 # Osäker osäkerhet
 *Ett kompendium om kvantifiering av volatilitet*
 
+Syftar till kursen ME1316 Kvantitativ affärs- och verksamhetsanalys på Kungliga tekniska högskolan.
 
-## Kapitel
+## Innehåll
 Med tillhörande CoLab-länk!
 
 **1 Intro** [CoLab](https://colab.research.google.com/drive/13Ser85e8GlTuArN078Ujs24hEDMIfjnE?usp=sharing)
