@@ -1,7 +1,10 @@
 # Osäker osäkerhet
 *Ett kompendium om kvantifiering av volatilitet*
 
-Syftar till kursen ME1316 Kvantitativ affärs- och verksamhetsanalys på Kungliga tekniska högskolan. I denna Github-repo återfinns varje kapitel till kompendiet samt en länk till kapitlet för Google CoLab.
+📈 Syftar till kursen ME1316 Kvantitativ affärs- och verksamhetsanalys på Kungliga tekniska högskolan. I denna Github-repo återfinns varje kapitel till kompendiet samt en länk till kapitlet för Google CoLab.
+### Osäker osäkerhet
+
+<img src="https://github.com/EricBojs/Osaker-osakerhet/blob/master/Plots/Figure.png?raw=true" width="500">
 
 ## Innehåll
 Med tillhörande CoLab-länk!
